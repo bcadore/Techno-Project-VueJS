@@ -2,19 +2,19 @@
   {
     "id": "notebook",
     "nome": "Notebook",
-    "preco": 2999,
+    "preco": 4500,
     "img": "./api/produtos/notebook/notebook.jpg"
   },
   {
     "id": "smartphone",
     "nome": "Smartphone",
-    "preco": 1299,
+    "preco": 2999,
     "img": "./api/produtos/smartphone/smartphone.jpg"
   },
   {
     "id": "tablet",
     "nome": "Tablet",
-    "preco": 899,
+    "preco": 3499,
     "img": "./api/produtos/tablet/tablet.jpg"
   },
   {
@@ -26,7 +26,7 @@
   {
     "id": "speaker",
     "nome": "Speaker",
-    "preco": 599,
+    "preco": 1999,
     "img": "./api/produtos/speaker/speaker.jpg"
   }
 ]
