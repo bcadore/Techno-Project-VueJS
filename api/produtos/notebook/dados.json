@@ -1,20 +1,20 @@
 {
   "id": "notebook",
   "nome": "Notebook",
-  "preco": 2999,
-  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
-  "estoque": 12,
+  "preco": 4999,
+  "descricao": "Notebook potente e versátil, ideal para trabalho, estudos e entretenimento. Equipado com processador rápido, tela nítida e armazenamento amplo, oferece desempenho eficiente para multitarefas. Design moderno e portátil, perfeito para quem busca produtividade em qualquer lugar.",
+  "estoque": 10 ,
   "img": "./api/produtos/notebook/notebook-foto.jpg",
   "avaliacoes": [
     {
-      "nome": "Fábio",
+      "nome": "Bernardo",
       "estrelas": 5,
-      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades"
+      "descricao": "Produto incrível! Superou todas as minhas expectativas. O desempenho é excepcional, o design é moderno e a entrega foi super rápida. Recomendo 100%!"
     },
     {
-      "nome": "Fábio",
+      "nome": "Letícia",
       "estrelas": 5,
-      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades"
+      "descricao": "Vale cada centavo! Uso diariamente e não tenho nenhuma queixa. A qualidade é premium e as funcionalidades atendem perfeitamente às minhas necessidades."
     }
   ]
 }

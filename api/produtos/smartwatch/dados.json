@@ -2,19 +2,19 @@
   "id": "smartwatch",
   "nome": "Smartwatch",
   "preco": 1199,
-  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "descricao": "Smartwatch com monitoramento de saúde, notificações inteligentes e resistência à água. Ideal para fitness e dia a dia, ele rastreia batimentos cardíacos, passos e sono, além de se conectar facilmente ao seu smartphone. Design moderno e personalizável.",
   "estoque": 5,
   "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
   "avaliacoes": [
     {
-      "nome": "Rogério",
-      "estrelas": 5,
-      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+      "nome": "Caroline",
+      "estrelas": 4,
+      "descricao": "Gostei bastante! Entrega rápida e o produto funciona muito bem, mas o manual de instruções poderia ser mais claro. Recomendo, mas com ressalvas pequenas."
     },
     {
-      "nome": "Nathália",
-      "estrelas": 4,
-      "descricao": "Gostei, mas o preço poderia ser melhor."
+      "nome": "Juliana",
+      "estrelas": 5,
+      "descricao": "Produto incrível! Superou todas as minhas expectativas. O desempenho é excepcional, o design é moderno e a entrega foi super rápida. Recomendo 100%!"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "id": "tablet",
   "nome": "Tablet",
-  "preco": 899,
-  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "preco": 3499,
+  "descricao": "Tablet fino e leve, perfeito para consumo de mídia, leitura e tarefas rápidas. Com tela imersiva, bom desempenho e bateria durável, é ótimo para assistir vídeos, navegar na internet ou até trabalhar com praticidade.",
   "estoque": 2,
   "img": "./api/produtos/tablet/tablet-foto.jpg",
   "avaliacoes": [
     {
-      "nome": "Rogério",
-      "estrelas": 5,
-      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+      "nome": "Denizart",
+      "estrelas": 3,
+      "descricao": "Mais ou menos. Faz o que promete, mas o design é um pouco frágil e a bateria não dura tanto quanto anunciado. Serve para emergências, mas não é espetacular."
     },
     {
-      "nome": "Nathália",
+      "nome": "Nathalia",
       "estrelas": 4,
-      "descricao": "Gostei, mas o preço poderia ser melhor."
+      "descricao": "Ótimo produto, atende bem às minhas necessidades. A qualidade é boa, mas senti falta de um detalhe ou outro que justificaria um preço mais baixo. No geral, estou satisfeito!"
     }
   ]
 }
